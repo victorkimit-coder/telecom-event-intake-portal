@@ -1,0 +1,7 @@
+{
+  "name": "telecom-event-forms",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "vite", "build": "vite", "preview": "vite preview" },
+  "devDependencies": { "vite": "^6.1.0" }
+}
