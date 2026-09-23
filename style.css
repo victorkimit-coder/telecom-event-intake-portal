@@ -5,3 +5,4 @@
 .official-logo{width:auto;height:50px;object-fit:contain}.telecom-banner img{width:106px;height:68px;object-fit:contain}@media(max-width:720px){.official-logo{width:auto;height:43px}.telecom-banner img{width:84px;height:54px}}
 .support-contact{color:#526f8f}.support-contact a{margin-left:0;color:#0758d6;text-decoration:none}.support-contact a:hover{text-decoration:underline}
 footer:before{content:none}.footer-brand{display:flex;align-items:center;gap:8px;white-space:nowrap}.footer-brand img{width:36px;height:36px;object-fit:contain}.footer-brand span{font-size:10px}
+.department-name{margin-left:auto;color:#0758d6;font:700 13px Manrope;letter-spacing:.7px}
