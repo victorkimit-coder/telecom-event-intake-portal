@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 94" role="img" aria-labelledby="title">
-  <title id="title">Қазақтелеком</title>
-  <g fill="none" stroke="#00A7D8" stroke-width="6" stroke-linecap="round">
-    <path d="M12 17h48M8 29h56M7 41h59M8 53h56M12 65h48"/>
-    <path d="M44 9c22 7 34 18 34 32S66 66 44 73M50 11C33 20 25 30 25 41s8 21 25 30"/>
-  </g>
-  <text x="96" y="45" fill="#15233B" font-family="Arial, sans-serif" font-size="31" font-weight="700">ҚАЗАҚТЕЛЕКОМ</text>
-  <text x="98" y="68" fill="#587087" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">KAZAKHTELECOM</text>
-</svg>
